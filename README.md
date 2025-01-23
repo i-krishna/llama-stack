@@ -1,6 +1,6 @@
 Load this [notebook](https://github.com/i-krishna/llama-stack/blob/main/docs/notebooks/Llama_Stack_Building_AI_Applications.ipynb) to https://colab.research.google.com/ and run the code to understand Llama 3 Stack Models and developer tools
 
-Compare Meta Llama model with IBM Granite https://ibm.github.io/granite-workshop/ 
+Compare Meta Llama model with IBM Granite models by loading these [4 notebooks] (ttps://github.com/IBM/granite-workshop/tree/main/notebooks) to colab. For instructions, follow https://ibm.github.io/granite-workshop/ 
 
 # Llama Stack
 

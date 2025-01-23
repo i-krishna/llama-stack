@@ -1,6 +1,7 @@
 # Llama Stack
 
-Load this [!notebook] (https://github.com/i-krishna/llama-stack/blob/main/docs/notebooks/Llama_Stack_Building_AI_Applications.ipynb) to https://colab.research.google.com/  
+Load this [notebook](https://github.com/i-krishna/llama-stack/blob/main/docs/notebooks/Llama_Stack_Building_AI_Applications.ipynb) to https://colab.research.google.com/  
+
 
 [![PyPI version](https://img.shields.io/pypi/v/llama_stack.svg)](https://pypi.org/project/llama_stack/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/llama-stack)](https://pypi.org/project/llama-stack/)
